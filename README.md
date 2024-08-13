@@ -14,7 +14,7 @@ The answers are detailed and as concise as possible to minimize preparation time
 
 ---
 
-### Темы вопросов:
+### Topics of questions:
 - [Web Technologies](./questions/web.md)
 - [Security](./questions/security.md)
 - [OOP & FP](./questions/oop-fp.md)   
